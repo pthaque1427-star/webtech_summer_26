@@ -1,0 +1,47 @@
+    
+            .IN{
+                background-color: blue;
+                color:white;
+                column-width: 50px;
+            }
+            .tab1{
+                margin-left: 20px;
+                width: 50%;
+    
+            }
+            .frm{
+                background-color: chartreuse;
+                /* background-size: 50px; */
+                width: 600px;
+                height:300px;
+                /* padding: 70px; */
+                border-radius: 50px;
+                margin-left: 20px;
+                /* padding:60px; */
+                
+                
+            }
+            .header{
+                 text-align: center; 
+                /* margin: 0px 20px 150px 20px; */
+                /* text-align: start; */
+            }
+            
+            .tab{
+                 border-radius: 6px; 
+            }
+            .first{
+                /* margin-left: 20px; */
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            .second{
+                margin-right: 20px
+                ;
+
+            }
+            .PNM{
+                margin-left: 20px;
+
+            }
+
+        
